@@ -19,7 +19,7 @@
 * 🔐 Fokus saat ini: **SOC Analyst & Red Team**
 * 🧪 Suka ngoprek: **Network, Pentest Tools, Automations**
 * 🤖 Juga belajar: **ML/DL** untuk deteksi anomali & threat intel
-* ☕ Side quest: **PT. Kopi Bintang Indonesia** — eksplor bisnis & data
+* ☕ Side quest: **PT. Sentosa Makmur Indonesia** — eksplor bisnis
 * 🎯 Goal 2025: Contribute ke **open-source security tooling**
 
 <details>
