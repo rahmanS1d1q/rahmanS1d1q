@@ -124,4 +124,4 @@
 
 * 🌐 Website/Portfolio: <a href="https://rahmanS1d1q.github.io">rahmanS1d1q.github.io</a>
 * 💼 LinkedIn: <a href="https://linkedin.com/in/rahmanS1d1q">LinkedIn</a>
-
+![snake gif](https://raw.githubusercontent.com/rahmanS1d1q/rahmanS1d1q/output/snake.svg)
