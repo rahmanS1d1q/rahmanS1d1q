@@ -14,12 +14,12 @@
 
 ## 🧭 Tentang Saya
 
-Saya Willy — mahasiswa Unesa yang sedang fokus mendalami **Data Science** dan **Machine Learning**. Ketertarikan saya ada pada bagaimana data bisa digunakan untuk analisis, prediksi, dan menciptakan solusi cerdas.
+Saya Willy mahasiswa Universitas Negeri Surabaya yang sedang fokus mendalami **Data Science** dan **Machine Learning**. Ketertarikan saya ada pada bagaimana data bisa digunakan untuk analisis, prediksi, dan menciptakan solusi cerdas.
 
 * 📊 Fokus: Data Science & Machine Learning
 * 🧪 Hobi: Eksperimen dengan data, automasi, visualisasi
 * 🤖 Belajar: ML/DL untuk anomaly detection, forecasting, dan AI apps
-* ☕ Status: Mahasiswa Unesa
+* ☕ Status: Mahasiswa Sistem Informasi Unesa
 * 🎯 Goal 2025: Bangun portofolio proyek Data Science & AI
 
 <details>
