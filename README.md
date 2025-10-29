@@ -25,8 +25,10 @@ Saya **Willy** (Muhammad Rahman), mahasiswa **Universitas Negeri Surabaya (UNESA
 
 ## 🧠 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,keras,tensorflow,pytorch,pandas,numpy,matplotlib,seaborn,git,github,vscode,linux,mysql,postgres" />
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
 </p>
+
 
 ---
 
