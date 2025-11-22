@@ -1,7 +1,7 @@
 <!-- PROFILE README by Willy (rahmanS1d1q) -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00E8FF&center=true&vCenter=true&width=800&lines=👋+Halo%2C+Saya+Willy+(M+Rah+S);Mahasiswa+Sistem+Informasi+UNESA;Data+Science+%26+Machine+Learning+Enthusiast;Let's+build+AI-powered+solutions!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00E8FF&center=true&vCenter=true&width=800&lines=👋+Halo%2C+Saya+Willy+(M+Rah+Sid);Mahasiswa+Sistem+Informasi+UNESA;Data+Science+%26+Machine+Learning+Enthusiast;Let's+build+AI-powered+solutions!">
 </h1>
 
 <p align="center">
