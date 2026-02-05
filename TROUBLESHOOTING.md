@@ -158,3 +158,93 @@ Jika masih mengalami masalah, bisa:
 ---
 
 **Remember:** GitHub API memiliki rate limit, jadi error fetching resource kadang normal terjadi saat traffic tinggi. Solusi terbaik adalah menggunakan cache dan alternatif URL yang lebih stabil.
+
+### 6. GitHub Metrics Error - Missing Token
+
+**Error Message:**
+
+```
+Error: You must provide a valid GitHub personal token to gather your metrics
+```
+
+**Penyebab:**
+
+- METRICS_TOKEN tidak ada di repository secrets
+- Token expired atau invalid
+- Permissions tidak cukup
+
+**Solusi:**
+
+1. **Buat Personal Access Token:**
+   - GitHub Settings > Developer settings > Personal access tokens
+   - Generate new token dengan scopes: `repo`, `user`, `read:org`
+
+2. **Tambah ke Repository Secrets:**
+   - Repository Settings > Secrets and variables > Actions
+   - New repository secret: `METRICS_TOKEN`
+
+3. **Atau Disable Metrics:**
+   ```bash
+   # File metrics.yml sudah di-disable dengan comment
+   # Biarkan seperti itu atau hapus file
+   rm .github/workflows/metrics.yml
+   ```
+
+**Detail lengkap:** Lihat file `GITHUB_TOKEN_SETUP.md`
+
+### 7. Workflow Permission Denied
+
+**Error Message:**
+
+```
+Error: Process completed with exit code 1
+Permission denied
+```
+
+**Solusi:**
+
+1. **Enable GitHub Actions:**
+   - Repository Settings > Actions > General
+   - Allow all actions and reusable workflows
+
+2. **Check Workflow Permissions:**
+   - Repository Settings > Actions > General
+   - Workflow permissions: Read and write permissions
+
+3. **Add Permissions to Workflow:**
+   ```yaml
+   jobs:
+     job-name:
+       permissions:
+         contents: write
+         actions: read
+   ```
+
+## 🔄 Quick Fix untuk Error Token
+
+Jika tidak ingin setup token, gunakan solusi cepat ini:
+
+### Opsi 1: Hapus Metrics Workflow
+
+```bash
+rm .github/workflows/metrics.yml
+```
+
+### Opsi 2: Gunakan GITHUB_TOKEN Default
+
+Edit file `metrics.yml`:
+
+```yaml
+token: ${{ secrets.GITHUB_TOKEN }} # Ganti METRICS_TOKEN
+```
+
+### Opsi 3: Disable Workflow
+
+File sudah di-disable. Tidak perlu action tambahan.
+
+## 📞 Support Tambahan
+
+- **GitHub Token Setup:** `GITHUB_TOKEN_SETUP.md`
+- **Profile Setup:** `PROFILE_SETUP.md`
+- **GitHub Actions Docs:** https://docs.github.com/en/actions
+- **Metrics Plugin:** https://github.com/lowlighter/metrics
