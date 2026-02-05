@@ -128,12 +128,12 @@ _Saya **Willy** (Muhammad Rahman), mahasiswa **Universitas Negeri Surabaya (UNES
 <tr>
 <td width="50%">
 
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rahmanS1d1q&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=00E8FF&text_color=FFFFFF&border_radius=10" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rahmanS1d1q&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=00E8FF&text_color=FFFFFF&border_radius=10&cache_seconds=86400&v=3" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rahmanS1d1q&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E8FF&ring=00E8FF&fire=FF6B6B&currStreakLabel=00E8FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E&border_radius=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rahmanS1d1q&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E8FF&ring=00E8FF&fire=FF6B6B&currStreakLabel=00E8FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E&border_radius=10&cache_seconds=86400" />
 
 </td>
 </tr>
@@ -141,15 +141,15 @@ _Saya **Willy** (Muhammad Rahman), mahasiswa **Universitas Negeri Surabaya (UNES
 
 <div align="center">
 
-<img width="65%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rahmanS1d1q&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&text_color=FFFFFF&border_radius=10&langs_count=8" />
+<img width="65%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rahmanS1d1q&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&text_color=FFFFFF&border_radius=10&langs_count=8&cache_seconds=86400&v=3" />
 
 </div>
 
 <div align="center">
 
-### 🏆 GitHub Achievements
+### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=rahmanS1d1q&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" />
+<img src="https://github-profile-trophy.vercel.app/?username=rahmanS1d1q&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6&cache_seconds=86400&v=3" />
 
 </div>
 
