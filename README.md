@@ -128,7 +128,7 @@ _Saya **Willy** (Muhammad Rahman), mahasiswa **Universitas Negeri Surabaya (UNES
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahmanS1d1q&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=00E8FF&text_color=FFFFFF&border_radius=10&count_private=true&include_all_commits=true" />
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rahmanS1d1q&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=00E8FF&text_color=FFFFFF&border_radius=10" />
 
 </td>
 <td width="50%">
@@ -141,7 +141,7 @@ _Saya **Willy** (Muhammad Rahman), mahasiswa **Universitas Negeri Surabaya (UNES
 
 <div align="center">
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanS1d1q&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&text_color=FFFFFF&border_radius=10&langs_count=8&count_private=true" />
+<img width="65%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rahmanS1d1q&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&text_color=FFFFFF&border_radius=10&langs_count=8" />
 
 </div>
 
@@ -149,7 +149,7 @@ _Saya **Willy** (Muhammad Rahman), mahasiswa **Universitas Negeri Surabaya (UNES
 
 ### 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=rahmanS1d1q&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=rahmanS1d1q&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" />
 
 </div>
 
