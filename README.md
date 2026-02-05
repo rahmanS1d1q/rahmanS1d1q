@@ -78,7 +78,7 @@ _Saya **Willy** (Muhammad Rahman), mahasiswa **Universitas Negeri Surabaya (UNES
 
 ### 🐍 Data Science
 
-<img src="https://skillicons.dev/icons?i=python,jupyter,pandas,numpy" /><br>
+<img src="https://skillicons.dev/icons?i=python,jupyter" /><br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
@@ -128,12 +128,12 @@ _Saya **Willy** (Muhammad Rahman), mahasiswa **Universitas Negeri Surabaya (UNES
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahmanS1d1q&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=00E8FF&text_color=FFFFFF&border_radius=10" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahmanS1d1q&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=00E8FF&text_color=FFFFFF&border_radius=10&cache_seconds=86400" />
 
 </td>
 <td width="50%">
 
-<img src="https://streak-stats.demolab.com?user=rahmanS1d1q&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E8FF&ring=00E8FF&fire=FF6B6B&currStreakLabel=00E8FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E&border_radius=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rahmanS1d1q&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E8FF&ring=00E8FF&fire=FF6B6B&currStreakLabel=00E8FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E&border_radius=10" />
 
 </td>
 </tr>
@@ -141,7 +141,7 @@ _Saya **Willy** (Muhammad Rahman), mahasiswa **Universitas Negeri Surabaya (UNES
 
 <div align="center">
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanS1d1q&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&text_color=FFFFFF&border_radius=10&langs_count=8" />
+<img width="65%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahmanS1d1q&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&text_color=FFFFFF&border_radius=10&langs_count=8&cache_seconds=86400" />
 
 </div>
 
@@ -174,7 +174,11 @@ _Saya **Willy** (Muhammad Rahman), mahasiswa **Universitas Negeri Surabaya (UNES
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rahmanS1d1q/rahmanS1d1q/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahmanS1d1q/rahmanS1d1q/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahmanS1d1q/rahmanS1d1q/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rahmanS1d1q/rahmanS1d1q/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -184,37 +188,6 @@ _Saya **Willy** (Muhammad Rahman), mahasiswa **Universitas Negeri Surabaya (UNES
 ## 📦 Featured Projects | Proyek Unggulan
 
 </div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🎯 Machine Learning Projects
-
-<div align="center">
-
-[![Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rahmanS1d1q&repo=sentiment-analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&text_color=FFFFFF&icon_color=FF6B6B)](https://github.com/rahmanS1d1q)
-
-[![Churn Prediction](https://github-readme-stats.vercel.app/api/pin/?username=rahmanS1d1q&repo=churn-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&text_color=FFFFFF&icon_color=FF6B6B)](https://github.com/rahmanS1d1q)
-
-</div>
-
-</td>
-<td width="50%">
-
-### 📊 Data Science Projects
-
-<div align="center">
-
-[![Time Series Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=rahmanS1d1q&repo=time-series-forecasting&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/rahmanS1d1q)
-
-[![ML Web Apps](https://github-readme-stats.vercel.app/api/pin/?username=rahmanS1d1q&repo=ml-web-apps&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E8FF&text_color=FFFFFF&icon_color=4ECDC4)](https://github.com/rahmanS1d1q)
-
-</div>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -230,22 +203,6 @@ _Saya **Willy** (Muhammad Rahman), mahasiswa **Universitas Negeri Surabaya (UNES
   _Demo kecil model klasifikasi/regresi siap deploy_
 
 </div>
-
----
-
-## 🌐 Kontak
-
-<p align="center">
-  <a href="mailto:rahmanshiddiq09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/rahmanshiddiq09/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/rahmanS1d1q"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge"/></a>
-</p>
-
----
-
-## 💬 Quote
-
-> “Data is the new oil, but context is the new gold.” — _M Rah S (Willy)_
 
 ---
 

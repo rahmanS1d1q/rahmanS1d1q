@@ -1,9 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  # Run automatically every 12 hours
+  # Run automatically every 24 hours
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
 
   # Allows manual trigger
   workflow_dispatch:
@@ -16,7 +16,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
+    permissions:
+      contents: write
 
     steps:
       # Checkout the repository
@@ -31,7 +33,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       # Push the generated files to output branch
       - name: Push snake.svg to the output branch
