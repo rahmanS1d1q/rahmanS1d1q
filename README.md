@@ -50,7 +50,6 @@ motto: "Turning Data into Insights"
 - 🧪 **Research & Experimentation**
 - 📈 **Predictive Modeling**
 - 🔍 **Pattern Recognition**
-- ☁️ **Cloud Computing**
 
 </td>
 </tr>
